@@ -126,6 +126,7 @@
                     </div>
                 </div>
 
+
                 <!-- Slide -->
                 <div class="slide">
                     <div class="background_image" style="background-image:url(images/index_1.jpg)"></div>
